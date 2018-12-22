@@ -1,6 +1,6 @@
-### GNU AFFERO 通用公共许可证
+### GNU AFFERO GENERAL PUBLIC LICENSE
 
-第 3 版, 2017-11-19
+Version 3, 19 November 2007
 
 Copyright (C) 2007 Free Software Foundation, Inc.
 <https://fsf.org/>

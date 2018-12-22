@@ -1,67 +1,32 @@
-### GNU AFFERO 通用公共许可证
+### GNU AFFERO 通用公共许可协议
 
-第 3 版, 2017-11-19
+第 3 版，2017 年 11 月 19 日
 
-Copyright (C) 2007 Free Software Foundation, Inc.
-<https://fsf.org/>
+版权所有 © 自由软件基金会 <https://fsf.org/>
 
-Everyone is permitted to copy and distribute verbatim copies of this
-license document, but changing it is not allowed.
+任何人都可以复制和分发该许可协议文件的完整版本，但不能对其进行修改。
 
-### Preamble
+### 序言
 
-The GNU Affero General Public License is a free, copyleft license for
-software and other kinds of works, specifically designed to ensure
-cooperation with the community in the case of network server software.
+GNU AFFERO 通用公共许可协议（以下简称“GNU AGPL协议”）是一份针对软件及其他类型作品的自由的、公共的许可，同时对于确保基于网络服务器软件的社区合作作出了明确要求。
 
-The licenses for most software and other practical works are designed
-to take away your freedom to share and change the works. By contrast,
-our General Public Licenses are intended to guarantee your freedom to
-share and change all versions of a program--to make sure it remains
-free software for all its users.
+大多数软件及其他作品的许可协议都禁止你分享和修改这些作品。相比之下，GNU 通用公共许可协议旨在保证您可以分享、修改一个程序的所有版本——确保该软件对所有用户都是自由的。
 
-When we speak of free software, we are referring to freedom, not
-price. Our General Public Licenses are designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-them if you wish), that you receive source code or can get it if you
-want it, that you can change the software or use pieces of it in new
-free programs, and that you know you can do these things.
+当我们谈及自由软件（free software），我们指的是自由（freedom），而不是免费（price）。GNU 通用公共许可协议保证您有分发自由软件（如果愿意也可以为此服务收费）的自由，以确保您可以在需要的时候获得这些源代码，确保您可以修改这些作品或在新的自由软件中复用一些片段，确保您对以上权利知情。
 
-Developers that use our General Public Licenses protect your rights
-with two steps: (1) assert copyright on the software, and (2) offer
-you this License which gives you legal permission to copy, distribute
-and/or modify the software.
+使用 GNU 通用公共许可协议的开发者通过以下两步保障个人权益：（1）声明软件的版权；（2）提供本协议以确保您可以合法地复制、分发、修改该软件。
 
-A secondary benefit of defending all users' freedom is that
-improvements made in alternate versions of the program, if they
-receive widespread use, become available for other developers to
-incorporate. Many developers of free software are heartened and
-encouraged by the resulting cooperation. However, in the case of
-software used on network servers, this result may fail to come about.
-The GNU General Public License permits making a modified version and
-letting the public access it on a server without ever releasing its
-source code to the public.
+维护所有使用者自由的另一个好处是，如果一个软件的被广泛使用，各版本分支的改进可以被开发者们合并起来。许多开发者都会被由此产生的合作所鼓舞。然而，在网络服务器上使用的软件，这可能就无法实现。GNU 通用公共许可协议允许您修改版本并让公众在服务器上访问它而不对公众提供给它的源代码。
 
-The GNU Affero General Public License is designed specifically to
-ensure that, in such cases, the modified source code becomes available
-to the community. It requires the operator of a network server to
-provide the source code of the modified version running there to the
-users of that server. Therefore, public use of a modified version, on
-a publicly accessible server, gives the public access to the source
-code of the modified version.
+GNU AGPL协议是针对这个问题设计的。在这种情况下，修改后的源码是可以被社区使用的。它要求网络服务器运行者将修改后用于运行的源代码提供给该服务器的用户。因此，在公开可访问服务器上运行的修改版本应提供该修改版本源代码的公开访问路径。
 
-An older license, called the Affero General Public License and
-published by Affero, was designed to accomplish similar goals. This is
-a different license, not a version of the Affero GPL, but Affero has
-released a new version of the Affero GPL which permits relicensing
-under this license.
+一个由 Affero 发布的名为“Affero 通用公共许可协议”较旧版本旨在实现类似的目的。本协议是一个与此不同的协议，并非 Affero GPL 的另一个版本，但是 Affero 已经发布了一个 Affero GPL 的新版本允许在本协议下进行重新许可。
 
-The precise terms and conditions for copying, distribution and
-modification follow.
+关于复制、分发和修改的正式条款如下。
 
-### TERMS AND CONDITIONS
+### 条款
 
-#### 0. Definitions.
+#### 0. 定义
 
 "This License" refers to version 3 of the GNU Affero General Public
 License.
