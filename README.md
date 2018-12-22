@@ -1,6 +1,6 @@
 # Open-Source-License-cn
 
-开源协议 中文版，英文原始资料主要来自 https://choosealicense.com/
+开源协议 中文版，英文原始资料主要来自 <https://choosealicense.com/> 及各协议官方网站。
 
 目前，随着开源内容资源的日益增多，正确地使用开源软件对提高开发效率、提升软件质量有着极为重要的意义。  
 
