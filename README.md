@@ -22,8 +22,46 @@
     - \*-en.md 文件开源协议的英文版markdown文件。
     - \*-zh.md 文件开源协议的中文版markdown文件。
 
-## 开源协议官网
+## 开源协议相关信息及进展
 
-1. GNU AGPLv3
+1. MIT
 
-> <https://www.gnu.org/licenses/agpl.html>
+> 源网址：<https://opensource.org/licenses/MIT>
+
+  - Whatever23333 翻译中
+
+2. GNU GPLv3
+
+> 源网址：<https://www.gnu.org/licenses/gpl.html>
+
+  - 未开展
+
+3. GNU AGPLv3
+
+> 源网址：<https://www.gnu.org/licenses/agpl.html>
+
+  - xx523853176 翻译中
+
+4. GNU LGPLv3
+
+> 源网址：<https://www.gnu.org/licenses/lgpl.html>
+
+  - 未开展
+
+5. Apache License 2.0
+
+> 源网址：<https://www.apache.org/licenses/LICENSE-2.0>
+
+  - 未开展
+
+6. Mozilla Public License 2.0
+
+> 源网址：<https://www.mozilla.org/en-US/MPL/2.0/>
+
+  - 未开展
+
+7. The Unlicense
+
+> 源网址：<http://unlicense.org/>
+
+  - 未开展
