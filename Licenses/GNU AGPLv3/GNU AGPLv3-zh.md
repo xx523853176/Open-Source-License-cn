@@ -60,46 +60,19 @@ GNU AGPL 协议是针对这个问题设计的。在这种情况下，修改后�
 
 #### 2. 基本许可
 
-All rights granted under 本许可协议 are granted for the term of
-copyright on the Program, and are irrevocable provided the stated
-conditions are met. 本许可协议 explicitly affirms your unlimited
-permission to run the unmodified Program. The output from running a
-受保护作品 is covered by 本许可协议 only if the output, given its
-content, constitutes a 受保护作品. 本许可协议 acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
+本许可协议下授予的所有权利都是就本程序的版权而言的，并且在满足所属条件时是不可撤销的。本许可协议明确保证您不受限制地运行未修改版程序的权限。仅当受保护作品的输出内容构成一个受保护作品时，才为本许可协议所约束。如版权法内所规定，本许可协议承认您正当使用的权利及与之等价的权利。
 
-You may make, run and propagate 受保护作品s that you do not convey,
-without conditions so long as your license otherwise remains in force.
-You may convey 受保护作品s to others for the sole purpose of having
-them make modifications exclusively for you, or provide you with
-facilities for running those works, provided that you comply with the
-terms of 本许可协议 in conveying all material for which you do not
-control copyright. Those thus making or running the 受保护作品s for
-you must do so exclusively on your behalf, under your direction and
-control, on terms that prohibit them from making any copies of your
-copyrighted material outside their relationship with you.
+只要你的许可协议仍然有效，你便可以制作、运行和传播那些你不能转发的受保护作品。只要你遵从本许可协议中转发时不占用其版权的条款，你就可以转发该受保护作品给他人，仅为让他们给你开发定制或向你提供给运行这些作品的工具。因此，那些为你制作或运行受保护作品的人，必须在你的指导和控制下，谨代表你工作，禁止他们在双方关系之外制作任何你提供的受版权保护的材料的副本。
 
-Conveying under any other circumstances is permitted solely under the
-conditions stated below. Sublicensing is not allowed; section 10 makes
-it unnecessary.
+在其他任何情况下，转发当且仅当满足后文所述条件时才被允许。转授许可协议是不允许的，而第10条的存在也使转授许可协议毫无必要。
 
-#### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+#### 3. 保护用户合法权益免受反规避法限制
 
-No 受保护作品 shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
+根据任何履行1996年12月20日通过的WIPO版权条约第11条的适用法律，或相似的禁止/限制规避此类措施的法律，任何受保护作品都不应被视为有效技术手段的一部分。
 
-When you convey a 受保护作品, you waive any legal power to forbid
-circumvention of technological measures to the extent such
-circumvention is effected by exercising rights under 本许可协议 with
-respect to the 受保护作品, and you disclaim any intention to limit
-operation or modification of the work as a means of enforcing, against
-the work's users, your or third parties' legal rights to forbid
-circumvention of technological measures.
+当你转发一个受保护作品时，你将放弃任何可以禁止规避技术措施的合法权利，乃至通过本许可协议行使权利获得的规避。同时你要表明无意限制用户操作或修改作品来确保你方或第三方禁止规避技术措施的合法权利。
 
-#### 4. Conveying Verbatim Copies.
+### 4. Conveying Verbatim Copies.
 
 You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
