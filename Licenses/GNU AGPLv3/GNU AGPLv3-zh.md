@@ -72,60 +72,26 @@ GNU AGPL 协议是针对这个问题设计的。在这种情况下，修改后�
 
 当你转发一个受保护作品时，你将放弃任何可以禁止规避技术措施的合法权利，乃至通过本许可协议行使权利获得的规避。同时你要表明无意限制用户操作或修改作品来确保你方或第三方禁止规避技术措施的合法权利。
 
-### 4. Conveying Verbatim Copies.
+### 4. 转发完整副本
 
-You may convey verbatim copies of the Program's source code as you
-receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that 本许可协议 and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-接受者 a copy of 本许可协议 along with the Program.
+你可以通过任何媒介转发你接收到的本程序源码的完整副本，但你必须要在每份副本上的明显地方都注明其版权；完整保留其中关于本许可协议的声明及与第7条一致的所有非许可条款；完整保留免责声明；给予所有接受者本程序时需附上一份本许可协议的副本。
 
-You may charge any price or no price for each copy that you convey,
-and you may offer support or warranty protection for a fee.
+你可以收费或免费提供转发，你可以通过提供技术支持或品质担保来收取费用。
 
-#### 5. Conveying Modified Source Versions.
+#### 5. 转发修改过的源码版本
 
-You may convey a work based on the Program, or the modifications to
-produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these
-conditions:
+你可以以源码形式转发一个基于本程序的作品或修改的内容，除需满足第4条要求外，还需保证以下几点：
 
--   a) The work must carry prominent notices stating that you modified
-    it, and giving a relevant date.
--   b) The work must carry prominent notices stating that it is
-    released under 本许可协议 and any conditions added under
-    section 7. This requirement modifies the requirement in section 4
-    to "keep intact all notices".
--   c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy. This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged. 本许可协议 gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if you have separately received it.
--   d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+-   a) 该作品必须含有明显的修改声明，并标注相应日期。
+-   b) 该作品必须含有明显的标注，以说明作品是在符合本许可协议及符合第7条的附加条件下发布的。本要求修正了第4条的关于“完整保留”的内容。
+-   c) 你必须按照本许可协议将整个作品授权给接受作品副本的人。因此，本许可协议连同任何符合第7节的附加条款都适用于整个作品中的每一部分，而与作品的打包方式无关。本许可协议不允许以其他任何方式对该作品进行许可，但如果你被单独授予其他许可则可另当别论。
+-   d) 如果该作品具有交互式用户界面，则每一个界面都必须显示适当的法律声明。但是，如果本程序已具有不现实适当法律声明的交互式用户界面，则该作品也不必显示。
 
-A compilation of a 受保护作品 with other separate and independent
-works, which are not by their nature extensions of the 受保护作品,
-and which are not combined with it such as to form a larger program,
-in or on a volume of a storage or distribution medium, is called an
-"aggregate" if the compilation and its resulting copyright are not
-used to limit the access or legal rights of the compilation's users
-beyond what the individual works permit. Inclusion of a 受保护作品
-in an aggregate does not cause 本许可协议 to apply to the other
-parts of the aggregate.
+一个在存储中或在分发媒介上的受保护作品和其他分离独立的作品组合出的联合作品，在既不是该受保护作品的自然扩展，也不是以构筑更大的程序为目的，并且该联合作品自身和它产生的版权不是用于限制单体作品给予联合作品用户的访问或合法权益时，可称为“聚集体”。聚集体内包含的受保护作品不会导致本许可协议影响聚集体内的其他部分。
 
-#### 6. Conveying Non-Source Forms.
+#### 6. 非源码形式转发
 
-You may convey a 受保护作品 in object code form under the terms of
-sections 4 and 5, provided that you also convey the machine-readable
-Corresponding Source under the terms of 本许可协议, in one of these
-ways:
+你可以如第4条、第5条所述，以目标码形式转发一个受保护作品，同时在本许可协议下以以下之一的方式转发机器可读的对应源码：
 
 -   a) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
