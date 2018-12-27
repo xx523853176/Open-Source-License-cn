@@ -12,13 +12,13 @@ GNU AFFERO 通用公共许可协议（以下简称“GNU AGPL协议”）是一�
 
 大多数软件及其他作品的许可协议都禁止你分享和修改这些作品。相比之下，GNU 通用公共许可协议旨在保证您可以分享、修改一个程序的所有版本——确保该软件对所有用户都是自由的。
 
-当我们谈及自由软件（free software），我们指的是自由（freedom），而不是免费（price）。GNU 通用公共许可协议保证您有分发自由软件（如果愿意也可以为此服务收费）的自由，以确保您可以在需要的时候获得这些源代码，确保您可以修改这些作品或在新的自由软件中复用一些片段，确保您对以上权利知情。
+当我们谈及自由软件（free software），我们指的是自由（freedom），而不是免费（price）。GNU 通用公共许可协议保证您有分发自由软件（如果愿意也可以为此服务收费）的自由，以确保您可以在需要的时候获得这些源码，确保您可以修改这些作品或在新的自由软件中复用一些片段，确保您对以上权利知情。
 
 使用 GNU 通用公共许可协议的开发者通过以下两步保障个人权益：（1）声明软件的版权；（2）提供本协议以确保您可以合法地复制、分发、修改该软件。
 
-维护所有使用者自由的另一个好处是，如果一个软件的被广泛使用，各版本分支的改进可以被开发者们合并起来。许多开发者都会被由此产生的合作所鼓舞。然而，在网络服务器上使用的软件，这可能就无法实现。GNU 通用公共许可协议允许您修改版本并让公众在服务器上访问它而不对公众提供给它的源代码。
+维护所有使用者自由的另一个好处是，如果一个软件的被广泛使用，各版本分支的改进可以被开发者们合并起来。许多开发者都会被由此产生的合作所鼓舞。然而，在网络服务器上使用的软件，这可能就无法实现。GNU 通用公共许可协议允许您修改版本并让公众在服务器上访问它而不对公众提供给它的源码。
 
-GNU AGPL 协议是针对这个问题设计的。在这种情况下，修改后的源码是可以被社区使用的。它要求网络服务器运行者将修改后用于运行的源代码提供给该服务器的用户。因此，在公开可访问服务器上运行的修改版本应提供该修改版本源代码的公开访问路径。
+GNU AGPL 协议是针对这个问题设计的。在这种情况下，修改后的源码是可以被社区使用的。它要求网络服务器运行者将修改后用于运行的源码提供给该服务器的用户。因此，在公开可访问服务器上运行的修改版本应提供该修改版本源码的公开访问路径。
 
 一个由 Affero 发布的名为“Affero 通用公共许可协议”的较旧版本旨在实现类似的目的。本协议是一个与此不同的协议，并非 Affero GPL 的另一个版本，但是 Affero 已经发布了一个 Affero GPL 的新版本允许在本协议下进行重新许可。
 
@@ -28,181 +28,70 @@ GNU AGPL 协议是针对这个问题设计的。在这种情况下，修改后�
 
 #### 0. 定义
 
-"This License" refers to version 3 of the GNU Affero General Public
-License.
+“本许可协议”指GNU AGPL协议第3版。
 
-"Copyright" also means copyright-like laws that apply to other kinds
-of works, such as semiconductor masks.
+“版权”也指适用于诸如半导体掩模之类的其他种类作品的类似法律。
 
-"The Program" refers to any copyrightable work licensed under this
-License. Each licensee is addressed as "you". "Licensees" and
-"recipients" may be individuals or organizations.
+“本程序”指 本协议下的任何获得版权的作品。每个许可获得者都被称为“您”。“许可获得者”和“接受者”可以是个人，也可以是组织。
 
-To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of
-an exact copy. The resulting work is called a "modified version" of
-the earlier work or a work "based on" the earlier work.
+“修改”工作指以需要版权许可的方式复制作品或修改作品的全部/局部。和制作一个副本有区别。“修改”工作最终会产生一个早期作品的“修改版”，或是一个“基于”前作的作品。
 
-A "covered work" means either the unmodified Program or a work based
-on the Program.
+“受保护作品”指源程序或其衍生作品。
 
-To "propagate" a work means to do anything with it that, without
-permission, would make you directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy. Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
+“传播”作品指在没有被许可的情况下，用它做任何事都会让你直接或间接地承担版权法律法规所规定的侵权行为（在计算机上运行程序及私下修改除外）。传播包括复制、分发（无论修改与否）、向公众公开以及在某些国家的一些其他行为。
 
-To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies. Mere interaction with a user
-through a computer network, with no transfer of a copy, is not
-conveying.
+“转发”作品指任何能使他人能制作或接受作品副本的传播方式。仅仅是通过计算机网络和某个用户的不包含传输副本的合作互动，便不是转发。
 
-An interactive user interface displays "Appropriate Legal Notices" to
-the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
-work under this License, and how to view a copy of this License. If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
+采用交互式用户界面显示“适当的法律声明”时应包含以下便捷而明显的可视化特性：（1）显示适当的版权提示；（2）告知用户该作品没有品质担保（提供担保的情况除外），许可获得者可以在本许可协议约束下转发该作品。如果该界面含有一个用户命令/选项列表（比如菜单栏），其表单项目应符合以上规范。
 
-#### 1. Source Code.
+#### 1. 源码
 
-The "source code" for a work means the preferred form of the work for
-making modifications to it. "Object code" means any non-source form of
-a work.
+作品的“源码”指对作品进行修改的首选形式。“目标码”指除源码外的其他作品形式。
 
-A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
+“标准接口”指被标准化组织定义的官方标准接口，或为开发者广泛使用的针对特定编程语言设定的接口。
 
-The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal form of
-packaging a Major Component, but which is not part of that Major
-Component, and (b) serves only to enable use of the work with that
-Major Component, or to implement a Standard Interface for which an
-implementation is available to the public in source code form. A
-"Major Component", in this context, means a major essential component
-(kernel, window system, and so on) of the specific operating system
-(if any) on which the executable work runs, or a compiler used to
-produce the work, or an object code interpreter used to run it.
+可执行作品中的“系统库”并非指整个作品，而是指以下内容：（a）和主要组件打包到一起，但非主要组件的一部分；（b）和主要组件一同使作品可用，或用于实现某个已有公开实现源码的标准接口。以上提及的“主要组件”指可运行作品运行所依赖的的特定操作系统中的主要组成部分（内核、窗口系统等），或是用于生成作品的编译器，或是运行目标码的解释器。
 
-The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
-control those activities. However, it does not include the work's
-System Libraries, or general-purpose tools or generally available free
-programs which are used unmodified in performing those activities but
-which are not part of the work. For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
+目标码形式作品的“相应源码”指生成、安装、运行（对于可执行作品而言）目标码以及修改作品（包括控制上述行为的脚本）所需的所有源码。然而，它并不包括该作品的系统库、通用工具、未经修改即可支持以上行为而非该作品一部分的普遍可用的自由软件。例如：相应源码包含与源文件关联的接口定义文件、作品所依赖的共享库和动态链接子程序的源码（依赖指作品和子程序间密切的数据通信或控制流）。
 
-The Corresponding Source need not include anything that users can
-regenerate automatically from other parts of the Corresponding Source.
+相应源码不需包含用户可以通过该相应源码的其他部分自动生成的内容。
 
-The Corresponding Source for a work in source code form is that same
-work.
+源码形式作品的相应源码即为本身。
 
-#### 2. Basic Permissions.
+#### 2. 基本许可
 
-All rights granted under this License are granted for the term of
-copyright on the Program, and are irrevocable provided the stated
-conditions are met. This License explicitly affirms your unlimited
-permission to run the unmodified Program. The output from running a
-covered work is covered by this License only if the output, given its
-content, constitutes a covered work. This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
+本许可协议下授予的所有权利都是就本程序的版权而言的，并且在满足所属条件时是不可撤销的。本许可协议明确保证您不受限制地运行未修改版程序的权限。仅当受保护作品的输出内容构成一个受保护作品时，才为本许可协议所约束。如版权法内所规定，本许可协议承认您正当使用的权利及与之等价的权利。
 
-You may make, run and propagate covered works that you do not convey,
-without conditions so long as your license otherwise remains in force.
-You may convey covered works to others for the sole purpose of having
-them make modifications exclusively for you, or provide you with
-facilities for running those works, provided that you comply with the
-terms of this License in conveying all material for which you do not
-control copyright. Those thus making or running the covered works for
-you must do so exclusively on your behalf, under your direction and
-control, on terms that prohibit them from making any copies of your
-copyrighted material outside their relationship with you.
+只要你的许可协议仍然有效，你便可以制作、运行和传播那些你不能转发的受保护作品。只要你遵从本许可协议中转发时不占用其版权的条款，你就可以转发该受保护作品给他人，仅为让他们给你开发定制或向你提供给运行这些作品的工具。因此，那些为你制作或运行受保护作品的人，必须在你的指导和控制下，谨代表你工作，禁止他们在双方关系之外制作任何你提供的受版权保护的材料的副本。
 
-Conveying under any other circumstances is permitted solely under the
-conditions stated below. Sublicensing is not allowed; section 10 makes
-it unnecessary.
+在其他任何情况下，转发当且仅当满足后文所述条件时才被允许。转授许可协议是不允许的，而第10条的存在也使转授许可协议毫无必要。
 
-#### 3. Protecting Users' Legal Rights From Anti-Circumvention Law.
+#### 3. 保护用户合法权益免受反规避法限制
 
-No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
+根据任何履行1996年12月20日通过的WIPO版权条约第11条的适用法律，或相似的禁止/限制规避此类措施的法律，任何受保护作品都不应被视为有效技术手段的一部分。
 
-When you convey a covered work, you waive any legal power to forbid
-circumvention of technological measures to the extent such
-circumvention is effected by exercising rights under this License with
-respect to the covered work, and you disclaim any intention to limit
-operation or modification of the work as a means of enforcing, against
-the work's users, your or third parties' legal rights to forbid
-circumvention of technological measures.
+当你转发一个受保护作品时，你将放弃任何可以禁止规避技术措施的合法权利，乃至通过本许可协议行使权利获得的规避。同时你要表明无意限制用户操作或修改作品来确保你方或第三方禁止规避技术措施的合法权利。
 
-#### 4. Conveying Verbatim Copies.
+### 4. 转发完整副本
 
-You may convey verbatim copies of the Program's source code as you
-receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
+你可以通过任何媒介转发你接收到的本程序源码的完整副本，但你必须要在每份副本上的明显地方都注明其版权；完整保留其中关于本许可协议的声明及与第7条一致的所有非许可条款；完整保留免责声明；给予所有接受者本程序时需附上一份本许可协议的副本。
 
-You may charge any price or no price for each copy that you convey,
-and you may offer support or warranty protection for a fee.
+你可以收费或免费提供转发，你可以通过提供技术支持或品质担保来收取费用。
 
-#### 5. Conveying Modified Source Versions.
+#### 5. 转发修改过的源码版本
 
-You may convey a work based on the Program, or the modifications to
-produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these
-conditions:
+你可以以源码形式转发一个基于本程序的作品或修改的内容，除需满足第4条要求外，还需保证以下几点：
 
--   a) The work must carry prominent notices stating that you modified
-    it, and giving a relevant date.
--   b) The work must carry prominent notices stating that it is
-    released under this License and any conditions added under
-    section 7. This requirement modifies the requirement in section 4
-    to "keep intact all notices".
--   c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy. This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged. This License gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if you have separately received it.
--   d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
+-   a) 该作品必须含有明显的修改声明，并标注相应日期。
+-   b) 该作品必须含有明显的标注，以说明作品是在符合本许可协议及符合第7条的附加条件下发布的。本要求修正了第4条的关于“完整保留”的内容。
+-   c) 你必须按照本许可协议将整个作品授权给接受作品副本的人。因此，本许可协议连同任何符合第7节的附加条款都适用于整个作品中的每一部分，而与作品的打包方式无关。本许可协议不允许以其他任何方式对该作品进行许可，但如果你被单独授予其他许可则可另当别论。
+-   d) 如果该作品具有交互式用户界面，则每一个界面都必须显示适当的法律声明。但是，如果本程序已具有不现实适当法律声明的交互式用户界面，则该作品也不必显示。
 
-A compilation of a covered work with other separate and independent
-works, which are not by their nature extensions of the covered work,
-and which are not combined with it such as to form a larger program,
-in or on a volume of a storage or distribution medium, is called an
-"aggregate" if the compilation and its resulting copyright are not
-used to limit the access or legal rights of the compilation's users
-beyond what the individual works permit. Inclusion of a covered work
-in an aggregate does not cause this License to apply to the other
-parts of the aggregate.
+一个在存储中或在分发媒介上的受保护作品和其他分离独立的作品组合出的联合作品，在既不是该受保护作品的自然扩展，也不是以构筑更大的程序为目的，并且该联合作品自身和它产生的版权不是用于限制单体作品给予联合作品用户的访问或合法权益时，可称为“聚集体”。聚集体内包含的受保护作品不会导致本许可协议影响聚集体内的其他部分。
 
-#### 6. Conveying Non-Source Forms.
+#### 6. 非源码形式转发
 
-You may convey a covered work in object code form under the terms of
-sections 4 and 5, provided that you also convey the machine-readable
-Corresponding Source under the terms of this License, in one of these
-ways:
+你可以如第4条、第5条所述，以目标码形式转发一个受保护作品，同时在本许可协议下以以下之一的方式转发机器可读的对应源码：
 
 -   a) Convey the object code in, or embodied in, a physical product
     (including a physical distribution medium), accompanied by the
@@ -214,7 +103,7 @@ ways:
     long as you offer spare parts or customer support for that product
     model, to give anyone who possesses the object code either (1) a
     copy of the Corresponding Source for all the software in the
-    product that is covered by this License, on a durable physical
+    product that is covered by 本许可协议, on a durable physical
     medium customarily used for software interchange, for a price no
     more than your reasonable cost of physically performing this
     conveying of source, or (2) access to copy the Corresponding
@@ -227,7 +116,7 @@ ways:
 -   d) Convey the object code by offering access from a designated
     place (gratis or for a charge), and offer equivalent access to the
     Corresponding Source in the same way through the same place at no
-    further charge. You need not require recipients to copy the
+    further charge. You need not require 接受者 to copy the
     Corresponding Source along with the object code. If the place to
     copy the object code is a network server, the Corresponding Source
     may be on a different server (operated by you or a third party)
@@ -261,7 +150,7 @@ mode of use of the product.
 
 "Installation Information" for a User Product means any methods,
 procedures, authorization keys, or other information required to
-install and execute modified versions of a covered work in that User
+install and execute modified versions of a 受保护作品 in that User
 Product from a modified version of its Corresponding Source. The
 information must suffice to ensure that the continued functioning of
 the modified object code is in no case prevented or interfered with
@@ -298,25 +187,25 @@ unpacking, reading or copying.
 "Additional permissions" are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
 Additional permissions that are applicable to the entire Program shall
-be treated as though they were included in this License, to the extent
+be treated as though they were included in 本许可协议, to the extent
 that they are valid under applicable law. If additional permissions
 apply only to part of the Program, that part may be used separately
 under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
+本许可协议 without regard to the additional permissions.
 
-When you convey a copy of a covered work, you may at your option
+When you convey a copy of a 受保护作品, you may at your option
 remove any additional permissions from that copy, or from any part of
 it. (Additional permissions may be written to require their own
 removal in certain cases when you modify the work.) You may place
-additional permissions on material, added by you to a covered work,
+additional permissions on material, added by you to a 受保护作品,
 for which you have or can give appropriate copyright permission.
 
-Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders
-of that material) supplement the terms of this License with terms:
+Notwithstanding any other provision of 本许可协议, for material you
+add to a 受保护作品, you may (if authorized by the copyright holders
+of that material) supplement the terms of 本许可协议 with terms:
 
 -   a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
+    terms of sections 15 and 16 of 本许可协议; or
 -   b) Requiring preservation of specified reasonable legal notices or
     author attributions in that material or in the Appropriate Legal
     Notices displayed by works containing it; or
@@ -336,14 +225,14 @@ of that material) supplement the terms of this License with terms:
 All other non-permissive additional terms are considered "further
 restrictions" within the meaning of section 10. If the Program as you
 received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
+governed by 本许可协议 along with a term that is a further
 restriction, you may remove that term. If a license document contains
 a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
+License, you may add to a 受保护作品 material governed by the terms
 of that license document, provided that the further restriction does
 not survive such relicensing or conveying.
 
-If you add terms to a covered work in accord with this section, you
+If you add terms to a 受保护作品 in accord with this section, you
 must place, in the relevant source files, a statement of the
 additional terms that apply to those files, or a notice indicating
 where to find the applicable terms.
@@ -354,13 +243,13 @@ above requirements apply either way.
 
 #### 8. Termination.
 
-You may not propagate or modify a covered work except as expressly
-provided under this License. Any attempt otherwise to propagate or
+You may not propagate or modify a 受保护作品 except as expressly
+provided under 本许可协议. Any attempt otherwise to propagate or
 modify it is void, and will automatically terminate your rights under
-this License (including any patent licenses granted under the third
+本许可协议 (including any patent licenses granted under the third
 paragraph of section 11).
 
-However, if you cease all violation of this License, then your license
+However, if you cease all violation of 本许可协议, then your license
 from a particular copyright holder is reinstated (a) provisionally,
 unless and until the copyright holder explicitly and finally
 terminates your license, and (b) permanently, if the copyright holder
@@ -370,33 +259,33 @@ fails to notify you of the violation by some reasonable means prior to
 Moreover, your license from a particular copyright holder is
 reinstated permanently if the copyright holder notifies you of the
 violation by some reasonable means, this is the first time you have
-received notice of violation of this License (for any work) from that
+received notice of violation of 本许可协议 (for any work) from that
 copyright holder, and you cure the violation prior to 30 days after
 your receipt of the notice.
 
 Termination of your rights under this section does not terminate the
 licenses of parties who have received copies or rights from you under
-this License. If your rights have been terminated and not permanently
+本许可协议. If your rights have been terminated and not permanently
 reinstated, you do not qualify to receive new licenses for the same
 material under section 10.
 
 #### 9. Acceptance Not Required for Having Copies.
 
-You are not required to accept this License in order to receive or run
-a copy of the Program. Ancillary propagation of a covered work
+You are not required to accept 本许可协议 in order to receive or run
+a copy of the Program. Ancillary propagation of a 受保护作品
 occurring solely as a consequence of using peer-to-peer transmission
 to receive a copy likewise does not require acceptance. However,
-nothing other than this License grants you permission to propagate or
-modify any covered work. These actions infringe copyright if you do
-not accept this License. Therefore, by modifying or propagating a
-covered work, you indicate your acceptance of this License to do so.
+nothing other than 本许可协议 grants you permission to propagate or
+modify any 受保护作品. These actions infringe copyright if you do
+not accept 本许可协议. Therefore, by modifying or propagating a
+受保护作品, you indicate your acceptance of 本许可协议 to do so.
 
-#### 10. Automatic Licensing of Downstream Recipients.
+#### 10. Automatic Licensing of Downstream 接受者.
 
-Each time you convey a covered work, the recipient automatically
+Each time you convey a 受保护作品, the recipient automatically
 receives a license from the original licensors, to run, modify and
-propagate that work, subject to this License. You are not responsible
-for enforcing compliance by third parties with this License.
+propagate that work, subject to 本许可协议. You are not responsible
+for enforcing compliance by third parties with 本许可协议.
 
 An "entity transaction" is a transaction transferring control of an
 organization, or substantially all assets of one, or subdividing an
@@ -409,9 +298,9 @@ Corresponding Source of the work from the predecessor in interest, if
 the predecessor has it or can get it with reasonable efforts.
 
 You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License. For example, you may
+rights granted or affirmed under 本许可协议. For example, you may
 not impose a license fee, royalty, or other charge for exercise of
-rights granted under this License, and you may not initiate litigation
+rights granted under 本许可协议, and you may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
@@ -425,12 +314,12 @@ work thus licensed is called the contributor's "contributor version".
 A contributor's "essential patent claims" are all patent claims owned
 or controlled by the contributor, whether already acquired or
 hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling its contributor version,
+by 本许可协议, of making, using, or selling its contributor version,
 but do not include claims that would be infringed only as a
 consequence of further modification of the contributor version. For
 purposes of this definition, "control" includes the right to grant
 patent sublicenses in a manner consistent with the requirements of
-this License.
+本许可协议.
 
 Each contributor grants you a non-exclusive, worldwide, royalty-free
 patent license under the contributor's essential patent claims, to
@@ -444,63 +333,63 @@ sue for patent infringement). To "grant" such a patent license to a
 party means to make such an agreement or commitment not to enforce a
 patent against the party.
 
-If you convey a covered work, knowingly relying on a patent license,
+If you convey a 受保护作品, knowingly relying on a patent license,
 and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
+to copy, free of charge and under the terms of 本许可协议, through a
 publicly available network server or other readily accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
 patent license for this particular work, or (3) arrange, in a manner
-consistent with the requirements of this License, to extend the patent
-license to downstream recipients. "Knowingly relying" means you have
+consistent with the requirements of 本许可协议, to extend the patent
+license to downstream 接受者. "Knowingly relying" means you have
 actual knowledge that, but for the patent license, your conveying the
-covered work in a country, or your recipient's use of the covered work
+受保护作品 in a country, or your recipient's use of the 受保护作品
 in a country, would infringe one or more identifiable patents in that
 country that you have reason to believe are valid.
 
 If, pursuant to or in connection with a single transaction or
 arrangement, you convey, or propagate by procuring conveyance of, a
-covered work, and grant a patent license to some of the parties
-receiving the covered work authorizing them to use, propagate, modify
-or convey a specific copy of the covered work, then the patent license
-you grant is automatically extended to all recipients of the covered
+受保护作品, and grant a patent license to some of the parties
+receiving the 受保护作品 authorizing them to use, propagate, modify
+or convey a specific copy of the 受保护作品, then the patent license
+you grant is automatically extended to all 接受者 of the covered
 work and works based on it.
 
 A patent license is "discriminatory" if it does not include within the
 scope of its coverage, prohibits the exercise of, or is conditioned on
 the non-exercise of one or more of the rights that are specifically
-granted under this License. You may not convey a covered work if you
+granted under 本许可协议. You may not convey a 受保护作品 if you
 are a party to an arrangement with a third party that is in the
 business of distributing software, under which you make payment to the
 third party based on the extent of your activity of conveying the
 work, and under which the third party grants, to any of the parties
-who would receive the covered work from you, a discriminatory patent
-license (a) in connection with copies of the covered work conveyed by
+who would receive the 受保护作品 from you, a discriminatory patent
+license (a) in connection with copies of the 受保护作品 conveyed by
 you (or copies made from those copies), or (b) primarily for and in
 connection with specific products or compilations that contain the
-covered work, unless you entered into that arrangement, or that patent
+受保护作品, unless you entered into that arrangement, or that patent
 license was granted, prior to 28 March 2007.
 
-Nothing in this License shall be construed as excluding or limiting
+Nothing in 本许可协议 shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.
 
 #### 12. No Surrender of Others' Freedom.
 
 If conditions are imposed on you (whether by court order, agreement or
-otherwise) that contradict the conditions of this License, they do not
-excuse you from the conditions of this License. If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under
-this License and any other pertinent obligations, then as a
+otherwise) that contradict the conditions of 本许可协议, they do not
+excuse you from the conditions of 本许可协议. If you cannot convey a
+受保护作品 so as to satisfy simultaneously your obligations under
+本许可协议 and any other pertinent obligations, then as a
 consequence you may not convey it at all. For example, if you agree to
 terms that obligate you to collect a royalty for further conveying
 from those to whom you convey the Program, the only way you could
-satisfy both those terms and this License would be to refrain entirely
+satisfy both those terms and 本许可协议 would be to refrain entirely
 from conveying the Program.
 
 #### 13. Remote Network Interaction; Use with the GNU General Public License.
 
-Notwithstanding any other provision of this License, if you modify the
+Notwithstanding any other provision of 本许可协议, if you modify the
 Program, your modified version must prominently offer all users
 interacting with it remotely through a computer network (if your
 version supports such interaction) an opportunity to receive the
@@ -511,15 +400,15 @@ Corresponding Source shall include the Corresponding Source for any
 work covered by version 3 of the GNU General Public License that is
 incorporated pursuant to the following paragraph.
 
-Notwithstanding any other provision of this License, you have
-permission to link or combine any covered work with a work licensed
+Notwithstanding any other provision of 本许可协议, you have
+permission to link or combine any 受保护作品 with a work licensed
 under version 3 of the GNU General Public License into a single
 combined work, and to convey the resulting work. The terms of this
-License will continue to apply to the part which is the covered work,
+License will continue to apply to the part which is the 受保护作品,
 but the work with which it is combined will remain governed by version
 3 of the GNU General Public License.
 
-#### 14. Revised Versions of this License.
+#### 14. Revised Versions of 本许可协议.
 
 The Free Software Foundation may publish revised and/or new versions
 of the GNU Affero General Public License from time to time. Such new
